@@ -126,7 +126,9 @@ The notebook extends the console-based approach to **interactive computing** in 
 
 ### Presentations ###
 
-![sfhmmy_logo](http://www.sfhmmy.gr/img/logo/logo-white-224-140.png)
+<img src="https://scontent.fath4-2.fna.fbcdn.net/v/t1.0-9/41466094_2133085533624950_2793870230273654784_n.png?_nc_cat=107&_nc_ht=scontent.fath4-2.fna&oh=fa9b3a22401b3fefed1e438bd9d13707&oe=5D2BE64B" alt="sfhmmy_logo" width="200"/>
+
+
 [ΣΦΗΜΜΥ11 2019](https://github.com/acmauth/mlintro/blob/master/Machine%20Learning%20Intro.pdf)
 
 
