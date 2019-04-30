@@ -1,8 +1,10 @@
-# A Machine Learning Intro by ACM AUTH Student Chapter
+# A Machine Learning Intro by ACM AUTH Student Chapter <img src="https://raw.githubusercontent.com/acmauth/wiki/master/Logo.png" alt="sfhmmy_logo" width="20"/>
 
 _Getting started with Machine Learning_
 
-## Setting up your Dev environment ##
+**:information_source: This is a a WIP project, join [our team](http://acmw.web.auth.gr) or contribute freely**
+
+## :memo: Setting up your Dev environment ##
 `- Python - Libraries - Editor`
 
 `- Working online & offline`
@@ -79,7 +81,7 @@ _WILL BE UPDATED ACCORDINGLY_
 **[TensorFlow](https://www.tensorflow.org/)** **[Keras](https://keras.io/)** **[PyTorch](https://pytorch.org/)** -> Deep learning frameworks
 
 
-## IDEs and Notebooks ##
+##  :doughnut: IDEs and Notebooks ##
 
 ### All in one IDEs ###
 
@@ -122,7 +124,7 @@ The notebook extends the console-based approach to **interactive computing** in 
 * Interaction with GitHub and Google Drive
 
 
-## You first machine learning code ##
+##  :fire: You first machine learning code ##
 
 ### Presentations ###
 
@@ -139,3 +141,27 @@ The notebook extends the console-based approach to **interactive computing** in 
 ### Datasets ###
 
 [California Housing Dataset (with ocean proximity)](https://github.com/acmauth/mlintro/blob/master/housing.csv)
+
+## Other Resources ##
+
+_Other resources that can help you on your first steps with machine learning_
+
+### :book: Books ###
+
+- Géron, A. (2017). Hands-on machine learning with Scikit-Learn and TensorFlow: concepts, tools, and techniques to build intelligent systems. " O'Reilly Media, Inc.".
+- Flach, P. (2012). Machine learning: the art and science of algorithms that make sense of data. Cambridge University Press.
+- Mitchell, T., Buchanan, B., DeJong, G., Dietterich, T., Rosenbloom, P., & Waibel, A. (1990). Machine learning. Annual review of computer science, 4(1), 417-433.
+
+###  :computer: Online Courses ###
+
+- [Machine Learning Certification by Stanford University (Coursera)](https://www.coursera.org/learn/machine-learning/)
+- [Machine Learning A-Z™: Hands-On Python & R In Data Science (Udemy) ](https://www.udemy.com/machinelearning/)
+- [Machine Learning – Artificial Intelligence by Columbia University (edX)](https://www.edx.org/micromasters/columbiax-artificial-intelligence)
+
+###  :octocat: Repositories ###
+
+- [100 Days of ML Coding ](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+- [A complete daily plan for studying to become a machine learning engineer](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+- [Data science Python notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+- [A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow. ](https://github.com/ageron/handson-ml) & [:new:](https://github.com/ageron/handson-ml2)
+- [Oxford Deep NLP 2017 course ](https://github.com/oxford-cs-deepnlp-2017/lectures)
